@@ -1,0 +1,3 @@
+[submodule "DJango-projects"]
+	path = DJango-projects
+	url = ./DJango-projects
